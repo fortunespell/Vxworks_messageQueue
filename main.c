@@ -5,7 +5,7 @@
 
 #define MAX_MSGS 5
 #define MAX_MSG_LEN 100
-#define MESSAGE "RV College of Engineering"
+#define MESSAGE "Fortune_spell"
 
 void task1(), task2();
 MSG_Q_ID MsgQId;
