@@ -28,7 +28,8 @@ The project defines three functions:
     - Upon successful reception, prints the received message.
     - Handles potential errors during message reception.
   
-![image](https://github.com/user-attachments/assets/6ee71e43-556e-4404-b676-32838802af9d)
+![image](https://github.com/user-attachments/assets/7f1a1715-52b2-41fd-ba9e-50c42df83575)
+
 
 
 ### How it Works
